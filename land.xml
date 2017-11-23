@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project path="device/xiaomi/land" name="AQSD/android_device_xiaomi_land" remote="github" revision="cm-14.1" />
-    <project path="kernel/xiaomi/msm8937" name="AQSD/android_kernel_xiaomi_msm8937" remote="github" revision="cm-14.1" />
+    <project path="kernel/xiaomi/msm8937" name="AQSD/android_kernel_xiaomi_msm8937" remote="github" revision="cm-14.1-new" />
     <project path="vendor/xiaomi" name="AQSD/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
 </manifest>
